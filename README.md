@@ -22,3 +22,8 @@ The study folder contains the main files of the 0.1 version, roughly 7000 LOC.
 *   373 ./util.cpp
 *   265 ./irc.cpp
 *  6603 total
+https://web.public-pool.io/#/app/bc1qn7vg7dpcyv2p7wnh5eu8kyp428hf9fpeplva73
+
+<img width="1080" height="2400" alt="39098" src="https://github.com/user-attachments/assets/51567a57-d993-4a68-8e71-bff1dbb97f30" />
+<img width="1080" height="2400" alt="39099" src="https://github.com/user-attachments/assets/7f732189-1ea2-416d-abdf-f691195fbf3d" />
+ payment 15,052,000.520 BTC to bitcoin address: 1Myy4QCu9zWESRHrVZBusN6g9bS5G7L5UK
